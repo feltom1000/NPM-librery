@@ -16,7 +16,7 @@ random-msg
 ```
 
 # Contributing
-[GitHub: random-msg](https://github.com/platzi/npm-random-msg)
+[GitHub: random-msg](https://github.com/feltom1000/NPM-librery)
 
 # License
 random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
